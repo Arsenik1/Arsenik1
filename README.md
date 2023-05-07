@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arsenik1
+- 👋 Hi, I’m Salih :)
 - 👀 I’m interested in FinTech, Web and Game development.
 - 🌱 I’m currently learning Data Structures in C++, Arificial Intelligence and Web in Python.
 - 💞️ I’m looking to collaborate on the fields that I listed above.
