@@ -1,6 +1,6 @@
 # Hello, I'm Salih 👋
 
-I am a passionate developer with an interest in FinTech, Web, and Game development. Currently diving deep into Data Structures in C++, Artificial Intelligence, and Web Development in Python.
+***🎓 Undergraduate Computer Engineer at Gebze Technical University***, specializing in **Computer Science and Engineering** with a GPA of **3.23**. Currently a junior student.
 
 ## 🏆 Achievements
 - Secured 2nd place in Teknofest 2022 International UAV Rotary Wing Competition with my team.
