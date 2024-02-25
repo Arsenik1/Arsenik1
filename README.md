@@ -25,7 +25,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📬 Get in Touch
-- LinkedIn: [Salih Karagöllü](https://www.linkedin.com/in/skaragollu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skaragollu/) 
 - Email: salihkaragollu@gmail.com
 
 Feel free to check out my repositories and star your favorites. Happy coding!
