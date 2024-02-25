@@ -6,8 +6,8 @@ I am a passionate developer with an interest in FinTech, Web, and Game developme
 - Secured 2nd place in Teknofest 2022 International UAV Rotary Wing Competition with my team.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C, C++, Python, Java, JavaScript, HTML, CSS
-- **Frameworks:** Spring, NextJS
+- **Languages:** Proficient in C, C++, Java, and Python. Experienced with Python for drone programming, web driver data, AI, and more.
+- **Web Technologies:** Skilled in Spring Framework, ASP.NET Core, Next.js, React, Node.js, Git, Unit Testing, PostgreSQL, Hibernate, BitBucket/Jira Agile, and UI/UX design with Material UI.
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsenik1&show_icons=true)
