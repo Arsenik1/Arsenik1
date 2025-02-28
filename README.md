@@ -1,6 +1,6 @@
 # Hello, I'm Salih 👋
 
-***🎓 Undergraduate Computer Engineer at Gebze Technical University***, specializing in **Computer Science and Engineering** with a GPA of **3.31**. Currently a junior student.
+***🎓 Undergraduate Computer Engineer at Gebze Technical University***, specializing in **Machine Learning and Web Technologies**. Senior student.
 
 ## 🏆 Achievements
 - Secured 2nd place in Teknofest 2022 International UAV Rotary Wing Competition with my team.
